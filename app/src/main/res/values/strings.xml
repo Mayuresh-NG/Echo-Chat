@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Echo-Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_message">Welcome to Echo-Chat!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
